@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Deep learning ANN**
+- 🌱 I’m currently learning **Deep learning CNN(Convolutional Neural Network)**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
