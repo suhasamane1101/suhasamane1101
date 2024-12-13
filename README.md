@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhas Amane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Science Learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhasamane1101&label=Profile%20views&color=0e75b6&style=flat" alt="suhasamane1101" /> </p>
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/suhasamane64130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/suhasamane64130" height="30" width="40" /></a>
+<a href="https://twitter.com/suhasamane64130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suhasamane64130" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suhas-amane-45a662240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhas-amane-45a662240/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/suhasamane12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/suhasamane12" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/suhas.amane.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/suhas.amane.1" height="30" width="40" /></a>
