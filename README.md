@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *suhasamane2@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NpHfnfG7drEK1aj-Hbg1UIBd22iUGoJO/view](https://drive.google.com/file/d/1NpHfnfG7drEK1aj-Hbg1UIBd22iUGoJO/view)
+- 📄 Know about my experiences [Click On Resume](https://drive.google.com/file/d/1eIz-O0RZNnRLMuH5gpD3FpXl60ASiJgH/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
