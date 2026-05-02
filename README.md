@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Data Science**
 - 🌱 I’m currently learning **Deep Learning (CNN)**
 - 👯 I’m looking to collaborate on **Data Science Projects**
-- 👨‍💻 Portfolio: https://my-portfolio-gilt-nu-44.vercel.app/
+- 👨‍💻 Portfolio: https://new-updated-portfolio-amber.vercel.app/
 - 💬 Ask me about **Python, ML, DL**
 - 📫 Reach me at: **suhasamane2@gmail.com**
 - 📄 Resume: https://drive.google.com/file/d/1eIz-O0RZNnRLMuH5gpD3FpXl60ASiJgH/view
@@ -17,7 +17,7 @@
 ### 🌐 Connect with me
 <p align="left">
 <a href="https://twitter.com/suhasamane64130"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/suhas-amane-45a662240"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/suhas-amane/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://kaggle.com/suhasamane12"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 <a href="https://fb.com/suhas.amane.1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://instagram.com/suhas.amane.1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
